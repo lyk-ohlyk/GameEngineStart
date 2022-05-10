@@ -3,3 +3,5 @@ build/
 *.ilk
 .vs/*
 .vs
+.vscode/
+.vscode
